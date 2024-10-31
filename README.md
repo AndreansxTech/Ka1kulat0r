@@ -1,5 +1,5 @@
 # <i> - Ka1kulat0r - </i></br>
-<img alt="Static Badge" src="https://img.shields.io/badge/40-commits-green">  <img alt="Static Badge" src="https://img.shields.io/badge/Kalkulator-blue"></br>
+<img alt="Static Badge" src="https://img.shields.io/badge/40-commits-green?style=plastic">  <img alt="Static Badge" src="https://img.shields.io/badge/Kalkulator-blue?style=plastic"></br>
 
 
 <h2>Kalkulator mogący wykonać 8 działań matematycznych</h2></br>
